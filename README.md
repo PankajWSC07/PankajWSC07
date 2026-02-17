@@ -53,7 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PankajWSC07&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=PankajWSC07&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6&v=1" />
 </p>
 
 ---
@@ -61,12 +61,12 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PankajWSC07&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170" />
-<img src="https://streak-stats.demolab.com?user=PankajWSC07&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=PankajWSC07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+<img src="https://streak-stats.demolab.com?user=PankajWSC07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajWSC07&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajWSC07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 </p>
 
 ---
