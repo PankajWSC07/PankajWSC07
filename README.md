@@ -102,7 +102,7 @@
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/pankajmakvana07" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
