@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | MERN Specialist | Python | AI/ML |
+### 🚀 Full Stack Developer | MERN Specialist | Python | AI/ML
 
 🏢 WeServe Codes — Ahmedabad, India
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;AI+%2F+ML;Python+%7C+C+%7C+C%2B%2B+Programmer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;AI+%2F+ML+Enthusiast;Python+%7C+C+%7C+C%2B%2B+Programmer;Building+Scalable+Web+Apps" />
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-* 🔭 Building modern full‑stack web applications
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 🌱 Learning Advanced Backend, System Design & AI tools
-* 💬 Ask me about MERN, MySQL, C, C++, Python, AI/ML basics
-* ⚡ Love turning ideas into real products
+- 🔭 Building modern full-stack web applications  
+- 🤖 Exploring Artificial Intelligence & Machine Learning  
+- 🌱 Learning Advanced Backend, System Design & AI tools  
+- 💬 Ask me about MERN, MySQL, C, C++, Python, AI/ML basics  
+- ⚡ Love turning ideas into real products  
 
 ---
 
@@ -53,7 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PankajWSC07&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=PankajWSC07&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
 </p>
 
 ---
@@ -61,12 +61,12 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PankajWSC07&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://streak-stats.demolab.com?user=PankajWSC07&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=PankajWSC07&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=PankajWSC07&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajWSC07&layout=compact&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajWSC07&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -75,20 +75,20 @@
 
 ### 🌐 Full Stack Applications
 
-* 🔹 **Project Name 1** — MERN stack web app
-* 🔹 **Project Name 2** — REST API / Backend system
-* 🔹 **Project Name 3** — Real‑world problem solving app
+- 🔹 **Project Name 1** — MERN stack web app  
+- 🔹 **Project Name 2** — REST API / Backend system  
+- 🔹 **Project Name 3** — Real-world problem solving app  
 
 ### 🤖 AI / ML Projects
 
-* 🔹 Machine Learning Model Project
-* 🔹 Data Analysis with Python
-* 🔹 AI‑powered Web Application
+- 🔹 Machine Learning Model Project  
+- 🔹 Data Analysis with Python  
+- 🔹 AI-powered Web Application  
 
 ### 🧠 Problem Solving
 
-* 🔹 Data Structures in C/C++
-* 🔹 Competitive Programming Solutions
+- 🔹 Data Structures in C/C++  
+- 🔹 Competitive Programming Solutions  
 
 ---
 
@@ -103,9 +103,17 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/pankajmakvana07" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:Pankaj.makvana@weservecodes.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://github.com/PankajWSC07"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://linkedin.com/in/pankajmakvana07" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:Pankaj.makvana@weservecodes.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://github.com/PankajWSC07">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 </p>
 
 ---
@@ -123,7 +131,3 @@
 ✨ *"Code. Create. Innovate. Repeat."* ✨
 
 </div>
-
----
-
-
