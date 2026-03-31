@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | MERN Specialist | Python | AI/ML
+### 🚀 Full Stack Developer | MERN  | Python | AI/ML
 
 🏢 WeServe Codes — Ahmedabad, India
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;AI+%2F+ML+Enthusiast;Python+%7C+C+%7C+C%2B%2B+Programmer;Building+Scalable+Web+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;AI+%2F+ML;Python+%7C+C+%7C+C%2B%2B+Programmer;Building+Scalable+Web+Apps" />
 
 </div>
 
